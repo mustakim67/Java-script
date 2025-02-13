@@ -3,3 +3,4 @@ const word=statement.split(" ");
 const reversed_statement=word.reverse();
 console.log(reversed_statement.join(" "));
 
+// Output: 'person working hard a am I'
